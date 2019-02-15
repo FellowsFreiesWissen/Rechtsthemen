@@ -1,5 +1,5 @@
 # Rechtsthemen
-Informationen rund um Wissenschaft, open Science, Recht und Gesetz
+Informationen rund um Wissenschaft, Open Science, Recht und Gesetz
 
 
 Fellow-Programm Freies Wissen 2018/2019
