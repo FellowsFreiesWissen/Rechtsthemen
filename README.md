@@ -5,10 +5,11 @@ Fellow-Programm Freies Wissen 2018/2019
 Qualifizierungsworkshop 11. - 12.02.2019 @ Museum für Naturkunde Berlin
 
 Referent*in: Vanessa Hannesschläger
-    Linda Kuschel: https://www.forschung-und-lehre.de/forschung/wem-gehoeren-forschungsdaten-1013/
 
 ## Diskussionsfragen
 - Wem gehören Forschungsdaten? (e.g. kann ich Forschungsdaten nach Ablauf einer Anstellung zum nächsten Arbeitgeber mitnehmen?) --> sui generis Datenbankrecht vs. Urheber*innenrecht
+- Linda Kuschel: https://www.forschung-und-lehre.de/forschung/wem-gehoeren-forschungsdaten-1013/
+
 - Social Media Daten, erhoben über APIs der sozialen Netzwerke (e.g. Twitter, FB API) - inwieweit darf ich diese Daten mit CC0 Lizenz versehen und online stellen? Plattformrichtlinien.
 - Bildrechte
 - "Copyright" (vs. Urheber*innenrecht)
